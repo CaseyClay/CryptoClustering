@@ -31,7 +31,7 @@ To determine the optimal value for k (the number of clusters), we followed these
 
 2. **Elbow Curve**: We plotted an elbow curve to visually identify the best k.
 
-**Answer**: The best value for k.
+**Answer**: The best K value appears to be 4, as it is the point just before diminishing returns on inertia, suggesting a good balance between cluster compactness and the number of clusters. 
 
 ## 3. Cluster Cryptocurrencies with K-Means Using the Original Scaled Data
 
